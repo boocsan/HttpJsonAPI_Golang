@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:alpine
 
 LABEL MAINTAINER iedred7584
 
