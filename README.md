@@ -3,6 +3,12 @@
 Golang で Http サーバーを実行する Docker コンテナ
 
 ```
+curl -sSL https://raw.githubusercontent.com/iedred7584/HttpJsonAPI_Golang/master/run.sh | sh
+```
+
+or
+
+```
 git clone https://github.com/iedred7584/HttpJsonAPI_Golang
 
 cd HttpJsonAPI_Golang
