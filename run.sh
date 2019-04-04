@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 git clone https://github.com/iedred7584/HttpJsonAPI_Golang.git
 docker build -t jsonapi ./HttpJsonAPI_Golang/
